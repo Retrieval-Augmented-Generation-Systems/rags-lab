@@ -21,6 +21,7 @@ rags-lab/
 ├── 💡 ideas/ # Accepted concepts and design summaries
 ├── 📊 benchmarks/ # Evaluation datasets, metrics, and test results
 └── 🧪 implementations/ # Finalized and in-progress project builds
+└── resources.md
 └── ...
 ```
 
