@@ -1,4 +1,4 @@
-# 🤝 Contributing to rags-lab
+# 🤝 Contributing to `rags-lab`
 
 Welcome to **rags-lab**. A collaborative workspace for exploring, discussing, and building next-generation Retrieval-Augmented Generation (RAG) systems. This document explains how to contribute, how to format proposals, and how discussions are managed via Pull Requests (PRs).
 
